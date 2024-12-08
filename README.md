@@ -2,6 +2,8 @@
 
 A PyTorch implementation of a Convolutional Neural Network (CNN) for the CIFAR-10 image classification task. The model achieves 82.61% accuracy using a custom architecture with batch normalization and data augmentation.
 
+![CNN Architecture](https://i.imgur.com/v68q26s.jpeg)
+
 ## Overview
 
 This project implements a CNN to classify images from the CIFAR-10 dataset into 10 different categories:
